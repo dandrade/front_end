@@ -1,5 +1,42 @@
+body {
+  background-color: #1D2F6F;
+  color: #FAC748;
+  text-align: center;
+}
 .App {
   text-align: center;
+}
+
+textarea {
+  width: 400px;
+  height: 200px;
+}
+button {
+  width: 100px;
+  height: 50px;
+  color: #1D2F6F;
+  background-color: #FAC748;
+  border: 10px solid  #FAC748;
+  border-radius: 10px;
+  font-size: 12px;
+
+}
+.guia {
+  border: 3px solid;
+  border-radius: 20px;
+  background-color: #FAC748;
+  color: #1D2F6F;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+.exception {
+  color: red;
 }
 
 .App-logo {
