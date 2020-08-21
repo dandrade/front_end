@@ -1,3 +1,11 @@
+Intento de FrontEnd en React implementando ActionCable, para prueba tecnica de SkyDrop.
+
+Comandos 
+```
+yarn install
+yarn start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
